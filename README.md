@@ -1,10 +1,5 @@
 
----
-title: "Untitled"
-author: "Tolga Kurt"
-date: "16 10 2021"
-output: html_document
----
+## Covid-19 Vaccination Data Analysis
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
